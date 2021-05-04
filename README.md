@@ -1,7 +1,7 @@
 
 # Para mais informações: 
 
-📲 📞 Michel Pacheco no WhatsApp.
+📲 📞 Michel Pacheco.
 
 <a href="https://wa.me/message/L2W26WS2QTOHB1">Whatsapp</a> no número (011)96977-0090.
 
