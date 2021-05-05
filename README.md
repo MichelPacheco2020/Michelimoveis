@@ -20,3 +20,16 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
 ![20210504_161424_0000](https://user-images.githubusercontent.com/67074775/117057914-6582ca00-acf4-11eb-8c81-40f7e64fce87.png)
 
 
+
+https://user-images.githubusercontent.com/67074775/117096822-81ac5880-ad40-11eb-8d5f-78f62aead702.mp4
+
+
+https://user-images.githubusercontent.com/67074775/117096831-8b35c080-ad40-11eb-960a-3d6db87831e3.mp4
+
+
+https://user-images.githubusercontent.com/67074775/117096841-92f56500-ad40-11eb-91bc-10456ae93b8c.mp4
+
+
+
+https://user-images.githubusercontent.com/67074775/117096979-e798e000-ad40-11eb-93b1-7536d7f0c6a2.mp4
+
