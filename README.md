@@ -23,7 +23,7 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
 
 <embed src="https://user-images.githubusercontent.com/67074775/117096831-8b35c080-ad40-11eb-960a-3d6db87831e3.mp4" width="640" height="480">
 
-<embed src="https://https://user-images.githubusercontent.com/67074775/117096841-92f56500-ad40-11eb-91bc-10456ae93b8c.mp4" width="640" height="480">
+<embed src="https://user-images.githubusercontent.com/67074775/117096841-92f56500-ad40-11eb-91bc-10456ae93b8c.mp4" width="640" height="480">
 
 <embed src="https://user-images.githubusercontent.com/67074775/117096979-e798e000-ad40-11eb-93b1-7536d7f0c6a2.mp4" width="640" height="480">
 
