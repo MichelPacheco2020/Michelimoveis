@@ -24,8 +24,7 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
 <embed src="https://user-images.githubusercontent.com/67074775/117096979-e798e000-ad40-11eb-93b1-7536d7f0c6a2.mp4" width="320" height="240">
 
 </center>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp
 <center>
 ![20210504_160554_0000](https://user-images.githubusercontent.com/67074775/117056562-d4f7ba00-acf2-11eb-9bc1-3d968b8821c6.png)
 ![0001-820956961_20210504_161105_0000](https://user-images.githubusercontent.com/67074775/117057908-64519d00-acf4-11eb-93ed-13444c049c13.png)
