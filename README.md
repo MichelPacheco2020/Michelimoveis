@@ -26,6 +26,7 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
 
 </center>
 
+<br>
 
 
   <img src="sense lion.png" width="450" height="300">
@@ -35,5 +36,36 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
   <img src="club vida.png" width="450" height="300">
   
   <img src="tailor made.png" width="450" height="300">
+
+
+<embed src="sense lion.png" width="320" height="240">
+
+
+
+
+
+
+
+
+
+![sense lion png](https://user-images.githubusercontent.com/67074775/117223036-2e3f1680-ade3-11eb-833d-4d270ea445d0.png)
+![tailor made png](https://user-images.githubusercontent.com/67074775/117223037-2ed7ad00-ade3-11eb-89de-cda564a24ccd.png)
+
+
+![club vida](https://user-images.githubusercontent.com/67074775/117223352-d6ed7600-ade3-11eb-9bd6-82aa5c2a7ece.png)
+
+
+
+
+
+
+
+![mobby png](https://user-images.githubusercontent.com/67074775/117223074-49118b00-ade3-11eb-8d83-8faea87324a0.png)
+
+
+https://user-images.githubusercontent.com/67074775/117223130-65152c80-ade3-11eb-9249-1a29a4fb7cc1.mp4
+
+
+https://user-images.githubusercontent.com/67074775/117223135-68a8b380-ade3-11eb-8dbb-dfcb39c2243f.mp4
 
 
