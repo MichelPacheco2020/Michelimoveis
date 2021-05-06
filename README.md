@@ -29,19 +29,6 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
 <br>
 
 
-  <img src="sense lion.png" width="450" height="300">
-  
-  <img src="mobby.png" width="450" height="300">
-  
-  <img src="club vida.png" width="450" height="300">
-  
-  <img src="tailor made.png" width="450" height="300">
-  
-  
-
-<embed src="sense lion.png" width="320" height="240">
-
-
 
 
 
