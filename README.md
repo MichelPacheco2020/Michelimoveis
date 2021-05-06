@@ -32,10 +32,6 @@ Confira esses emprendimentos e mais nas nossas redes sociais, os links que estã
 
 
 
-
-
-
-
 ![sense lion png](https://user-images.githubusercontent.com/67074775/117223036-2e3f1680-ade3-11eb-833d-4d270ea445d0.png)
 ![tailor made png](https://user-images.githubusercontent.com/67074775/117223037-2ed7ad00-ade3-11eb-89de-cda564a24ccd.png)
 ![club vida](https://user-images.githubusercontent.com/67074775/117223352-d6ed7600-ade3-11eb-9bd6-82aa5c2a7ece.png)
