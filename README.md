@@ -2,7 +2,29 @@
 
 ## Para mais informações: 
 
+<div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v10.0'
+      });
+    };
 
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/pt_BR/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <!-- Your Plugin de bate-papo code -->
+  <div class="fb-customerchat"
+    attribution="biz_inbox"
+    page_id="103325578537435">
+  </div>
 
 
 📲 📞 Michel Pacheco.
