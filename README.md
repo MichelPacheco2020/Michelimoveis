@@ -2,7 +2,7 @@
 
 ## Para mais informações: 
 
-<!DOCTYPE html>
+
 <html>
 
    <head>
