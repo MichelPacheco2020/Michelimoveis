@@ -2,6 +2,19 @@
 
 ## Para mais informações: 
 
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>HTML Marquee Tag</title>
+   </head>
+
+   <body>
+<marquee>This is example of marque direction of text<br> will come from right to left</marquee>
+   </body>
+
+</html>
+
 <div id="fb-root"></div>
   <script>
     window.fbAsyncInit = function() {
