@@ -10,7 +10,7 @@
    </head>
 
    <body>
-<marquee>This is example of marque direction of text<br> will come from right to left</marquee>
+<marquee>Confira esses emprendimentos e mais nas nossas redes sociais, os links estão logo abaixo:</marquee>
    </body>
 
 </html>
@@ -48,7 +48,9 @@
 
 <a href="https://www.instagram.com/michel_imoveis/">Visite o meu instagram</a>
 
-Confira esses emprendimentos e mais nas nossas redes sociais, os links que estão acima:
+
+
+
 
 <center>
 <embed src="https://user-images.githubusercontent.com/67074775/117096822-81ac5880-ad40-11eb-8d5f-78f62aead702.mp4" width="320" height="240">
