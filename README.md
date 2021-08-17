@@ -6,7 +6,7 @@
    </head>
 
    <body>
-<marquee>Confira esses emprendimentos e mais nas nossas redes sociais, os links estão logo abaixo:</marquee>
+<marquee>O Paraíso sob um novo Ponto de vista:</marquee>
    </body>
 
 </html>
