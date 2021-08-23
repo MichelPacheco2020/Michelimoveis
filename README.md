@@ -8,12 +8,11 @@
    <body>
 <marquee>O Paraíso sob um novo Ponto de vista:</marquee>
    </body>
-https://gifs.com/?source=https://storage.googleapis.com/user-uploaded-media/02dd1fec-a92d-432c-90ab-2790b1fbbc25.mp4
 </html>
 <br>
 <br>
 <br>
-
+<div id="mudar sem nome_1"></div>
 ## Para mais informações: 
 
 
