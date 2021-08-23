@@ -9,7 +9,6 @@
 <marquee>O Paraíso sob um novo Ponto de vista:</marquee>
    </body>
     
-  <img src="mudar sem nome_1.png">
 </html>
 <br>
 <br>
@@ -18,7 +17,7 @@
 
 ## Para mais informações: 
 
-
+<img src="mudar sem nome_1.png">
 
 <div id="fb-root"></div>
   <script>
