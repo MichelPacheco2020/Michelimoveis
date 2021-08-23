@@ -17,7 +17,7 @@
 
 ## Para mais informações: 
 
-<img src="mudar sem nome_1.png">
+<img src="C:\Users\Samsung\Desktop\HORIZON\mudar sem nome_1.png">
 
 <div id="fb-root"></div>
   <script>
