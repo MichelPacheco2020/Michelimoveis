@@ -8,8 +8,8 @@
    <body>
 <marquee>O Paraíso sob um novo Ponto de vista:</marquee>
    </body>
-   <div id="mudar sem nome_1"></div> 
-  
+    
+  <img src="mudar sem nome_1">
 </html>
 <br>
 <br>
