@@ -9,7 +9,7 @@
 <marquee>O Paraíso sob um novo Ponto de vista:</marquee>
    </body>
    <div id="mudar sem nome_1"></div> 
-   [sense lion png](https://user-images.githubusercontent.com/67074775/mudar sem nome_1.png)
+  
 </html>
 <br>
 <br>
