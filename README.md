@@ -9,7 +9,7 @@
 <marquee>O Paraíso sob um novo Ponto de vista:</marquee>
    </body>
     
-  <img src="mudar sem nome_1">
+  <img src="mudar sem nome_1.png">
 </html>
 <br>
 <br>
